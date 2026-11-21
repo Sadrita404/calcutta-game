@@ -207,3 +207,12 @@ After the game you can **try again** or go to your final score card.
 - The phone vibrates when you catch a chili or burnt sweet (on phones that support it)
 - Works on phones, tablets and desktops
 
+---
+## Play it on PC or Phone - Have fun
+
+<div align="center">
+
+<img width="4000" height="2250" alt="20261121_163801" src="https://github.com/user-attachments/assets/04d56a6e-f0c3-43d2-a9d2-403bd81a4402" />
+
+</div>
+
