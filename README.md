@@ -158,7 +158,7 @@ Answer questions about Kolkata's history and culture, then name famous foods fro
 
 ---
 
-## 🍬 Game 3: Rasogolla Catcher (Arcade)
+## Game 3: Rasogolla Catcher (Arcade)
 
 Rasogollas fall from the top of the screen. Move the clay bowl left and right to catch them.
 
