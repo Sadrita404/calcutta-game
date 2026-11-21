@@ -29,7 +29,9 @@
 
 ## Overview
 
-A mobile-friendly web game in two parts(can be play on pc too). Game 1 (Calcutta-Guesser): look at a photo of a Kolkata landmark, pick the right name from 3 options, and earn 10 Rasogollas per correct answer (100 max). Game 2 (Calcutta-Quiz): 6 Kolkata questions + 4 food pictures, 100 more Rasogollas. Game 3 (Rasogolla Catcher): an arcade game - drag the bowl to catch 50 falling Rasogollas (+2 each, 100 max), dodge chillies and burnt sweets (3 hearts). Finish with a downloadable score picture out of 300.
+
+
+Guess-CCU is a fun web game, for phone or PC, that celebrates Kolkata in three parts: guess famous landmarks from photos, answer city and food questions, and catch falling Rasogollas in an arcade challenge. Each part is worth up to 100 Rasogollas, and players finish with a shareable score picture out of 300.
 
 ## Why Guess - CCU ?
 
