@@ -64,6 +64,19 @@ Open http://localhost:3000
 
  ```
 
+ ## Demo Video
+
+<p align="center">
+  <a href="https://drive.google.com/drive/u/0/folders/1J-BPWLNb-l4oD4RWPW8xtOaRdraa_3as">
+    <img src="https://github.com/user-attachments/assets/e69bdfdf-d034-436d-a397-f55f8af56b12" width="400" alt="Watch the Demo Video" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/f8b26f0a-1923-4319-9048-054c40c6449f"><b>▶ Click to watch the demo video</b></a>
+</p>
+
+
   
   |  | Website Screenshots |  |
 | :-: | :-: | :-: |
