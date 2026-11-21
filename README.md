@@ -23,7 +23,7 @@
 
 |Title |Guess - CCU |
 |:-- |:--|
-|Author | Sadrita Neogi|
+| By | Sadrita Neogi|
 
 
 
